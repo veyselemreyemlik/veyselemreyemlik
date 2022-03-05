@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**veyselemreyemlik/veyselemreyemlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭  I’m currently working on ...Burası açık kaynak kodlu şeyleri açtığım ve bir şeyleri kırdığım yer🤣
+📕  Anadolu Üniversitesi Web Tasarım ve Kodlama bölümü mezunuyum 
+🔭  Şu anda 3. Sınıf öğrencisi olarak eğitim hayatıma devam ediyorum 😉
+🌱  Şu anda C# , React Native öğreniyorum
+📫  Bana nasıl ulaşılır: @gautamkrishnar veya fosstodon.org/@gkr
+👨‍💻Gautamkrishnar.com'da  projelerim hakkında daha fazla bilgi edinin
+⚡  Eğlenceli gerçek: ben❤️ 🐶s ve Xbox Gaming (GamerEtiketi: GKRXtreme )
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/veyselemreyemlik) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emreyemlik/)  
+(https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
