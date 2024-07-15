@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin Programing**
 
-- 👯 I’m looking to collaborate on **SAP - ABAP**
+- 👯 I’m looking to collaborate on **.NET ASP**
 
 - 📫 How to reach me **veysellyemlik@gmail.com**
 
