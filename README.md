@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veyselemreyemlik&label=Profile%20views&color=0e75b6&style=flat" alt="veyselemreyemlik" /> </p>
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Kotlin Programing**
-
-- 👯 I’m looking to collaborate on **.NET ASP**
+- 🌱 I’m currently learning **.NET and React Native Programing**
 
 - 📫 How to reach me **veysellyemlik@gmail.com**
 
